@@ -1,0 +1,23 @@
+{
+  "name": "wd-book",
+  "version": "1.0.0",
+  "description": "<!--  * @Author: your name  * @Date: 2020-06-09 20:28:39  * @LastEditTime: 2020-06-10 09:37:15  * @LastEditors: your name  * @Description: In User Settings Edit  * @FilePath: /mydir/wd-book/README.md -->  # wd-book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuojinlin/wd-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuojinlin/wd-book/issues"
+  },
+  "homepage": "https://github.com/zuojinlin/wd-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "2.3.2"
+  }
+}
